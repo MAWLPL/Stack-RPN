@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="paczka.RPNTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-11-16T08:05:40" hostname="DESKTOP-BNSK5HQ" time="0.03">
+  <properties/>
+  <testcase name="testInvalidOperator()" classname="paczka.RPNTest" time="0.017"/>
+  <testcase name="testSingleNumber()" classname="paczka.RPNTest" time="0.001"/>
+  <testcase name="testSimpleAddition()" classname="paczka.RPNTest" time="0.001"/>
+  <testcase name="testEmptyExpression()" classname="paczka.RPNTest" time="0.003"/>
+  <testcase name="testComplexExpression()" classname="paczka.RPNTest" time="0.001"/>
+  <testcase name="testDivision()" classname="paczka.RPNTest" time="0.001"/>
+  <testcase name="testSubtraction()" classname="paczka.RPNTest" time="0.001"/>
+  <system-out><![CDATA[Stos jest pusty.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
